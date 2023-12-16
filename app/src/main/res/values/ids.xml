@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="answerOptionsGroup" type="id" />
+    <item name="correctAnswerTextView" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="optionD" type="id" />
+    <item name="optionC" type="id" />
+    <item name="optionA" type="id" />
+    <item name="optionB" type="id" />
+    <item name="questionTextView" type="id" />
+    <item name="optionsRecyclerView" type="id" />
+    <item name="timerTextView" type="id" />
+    <item name="highestScorerTextView" type="id" />
+</resources>
